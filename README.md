@@ -1,4 +1,4 @@
-# sf-exercise
+# Code Exercise
 This is a project template for reviewing candidates for the Salesforce endineer role.
 
 ## Structure
