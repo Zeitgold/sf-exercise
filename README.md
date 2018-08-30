@@ -9,6 +9,9 @@ The are three main parts in this template:
 
 In each of these folders you will find a README file with the requirements for the specific exercise.
 
+## Submitting your results
+Once completed, the sf-exercise should be zipped and sent to the recruiter.
+
 
 Good Luck!
 

@@ -1,0 +1,39 @@
+body {
+  background-color: rgb(233, 233, 241);
+  padding: 20;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.title {
+  font-size: 32;
+  color: teal;
+  margin-bottom: 10;
+}
+
+.validationMessage {
+  height: 30;
+  color: black;
+  margin-top: 10;
+}
+
+/* input {
+  height: 40px;
+  min-width: 200px;
+  border-radius: 8px;
+  background-color: #ffffff;
+  padding-left: 10;
+  font-size: 16;
+  margin-right: 10;
+  font-family: Arial, Helvetica, sans-serif;
+  border: solid 1px #cccccc;
+}
+
+button {
+  height: 40px;
+  width: 200px;
+  border-radius: 8px;
+  color: white;
+  font-size: 16;
+  background-color: darkblue;
+} */
+
