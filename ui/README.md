@@ -10,6 +10,9 @@ There are two requirements:
 2. Add an address field. 
 	- The input should be free text.
 	- Validation should be made that the lead's address is in Germany.
+3. Update the css file so that inputs and buttons will look as close to the following image:
+
+![alt text](file://target.png)
 
 There is no server side in this excecise. All validations are client side.
 
