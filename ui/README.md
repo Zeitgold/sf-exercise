@@ -12,7 +12,7 @@ There are two requirements:
 	- Validation should be made that the lead's address is in Germany.
 3. Update the css file so that inputs and buttons will look as close to the following image:
 
-![alt text](file://target.png)
+![Target](https://github.com/Zeitgold/sf-exercise/blob/master/ui/target.png)
 
 There is no server side in this excecise. All validations are client side.
 
