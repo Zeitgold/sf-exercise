@@ -1,4 +1,4 @@
-# UI Codind exercise
+# UI Coding exercise
 
 Lead details form.
 
